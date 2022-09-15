@@ -1,4 +1,3 @@
-// We need to provide "export" to use it as an import in another js file
 export const monsters = [
   {
     id: 1,
